@@ -6,7 +6,7 @@ import 'package:facebook_clone/features/home/matching_card.dart';
 import 'package:facebook_clone/models/user.dart';
 import 'package:facebook_clone/repositories/auth_repo.dart';
 import 'package:facebook_clone/repositories/user_repo.dart';
-import 'package:facebook_clone/utils/secure_storage.dart';
+import 'package:facebook_clone/utils/local_storage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

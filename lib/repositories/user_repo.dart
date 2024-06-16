@@ -1,4 +1,4 @@
-import 'package:facebook_clone/config.dart';
+import 'package:facebook_clone/utils/config.dart';
 import 'package:facebook_clone/models/user.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;

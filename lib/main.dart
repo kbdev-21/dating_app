@@ -1,7 +1,7 @@
 import 'package:facebook_clone/common/theme.dart';
 import 'package:facebook_clone/features/auth/signin_page.dart';
 import 'package:facebook_clone/features/auth/signup_page.dart';
-import 'package:facebook_clone/wrapper.dart';
+import 'package:facebook_clone/features/wrapper.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 

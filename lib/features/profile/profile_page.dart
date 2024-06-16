@@ -2,7 +2,7 @@ import 'package:facebook_clone/features/auth/signin_page.dart';
 import 'package:facebook_clone/models/user.dart';
 import 'package:facebook_clone/repositories/auth_repo.dart';
 import 'package:facebook_clone/repositories/user_repo.dart';
-import 'package:facebook_clone/utils/secure_storage.dart';
+import 'package:facebook_clone/utils/local_storage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

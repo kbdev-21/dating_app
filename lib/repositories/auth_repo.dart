@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:facebook_clone/config.dart';
-import 'package:facebook_clone/utils/secure_storage.dart';
+import 'package:facebook_clone/utils/config.dart';
+import 'package:facebook_clone/utils/local_storage.dart';
 import 'package:http/http.dart' as http;
 
 class AuthRepo {
