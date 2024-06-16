@@ -1,6 +1,6 @@
 import 'package:facebook_clone/common/styles.dart';
 import 'package:facebook_clone/models/user.dart';
-import 'package:facebook_clone/repository/user_repo.dart';
+import 'package:facebook_clone/repositories/user_repo.dart';
 import 'package:facebook_clone/utils/secure_storage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -67,7 +67,7 @@ class _MessagePageState extends State<MessagePage> {
                     },
                   )
                 : Center(
-                    child: Text('No matched users found.'),
+                    child: Text('You haven\'t matched anyone'),
                   ),
           ),
         ],

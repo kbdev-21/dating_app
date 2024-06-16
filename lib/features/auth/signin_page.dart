@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'package:facebook_clone/common/styles.dart';
 import 'package:facebook_clone/common/theme.dart';
-import 'package:facebook_clone/feature/home/home_page.dart';
-import 'package:facebook_clone/feature/navigator_page.dart';
-import 'package:facebook_clone/repository/auth_repo.dart';
-import 'package:facebook_clone/feature/auth/signup_page.dart';
+import 'package:facebook_clone/features/home/home_page.dart';
+import 'package:facebook_clone/features/navigator_page.dart';
+import 'package:facebook_clone/repositories/auth_repo.dart';
+import 'package:facebook_clone/features/auth/signup_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';

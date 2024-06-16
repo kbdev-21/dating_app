@@ -1,7 +1,7 @@
-import 'package:facebook_clone/feature/auth/signin_page.dart';
-import 'package:facebook_clone/feature/home/home_page.dart';
-import 'package:facebook_clone/feature/navigator_page.dart';
-import 'package:facebook_clone/repository/auth_repo.dart';
+import 'package:facebook_clone/features/auth/signin_page.dart';
+import 'package:facebook_clone/features/home/home_page.dart';
+import 'package:facebook_clone/features/navigator_page.dart';
+import 'package:facebook_clone/repositories/auth_repo.dart';
 import 'package:flutter/material.dart';
 
 class Wrapper extends StatelessWidget {

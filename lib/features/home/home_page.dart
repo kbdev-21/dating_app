@@ -1,11 +1,11 @@
 import 'dart:math';
 import 'package:facebook_clone/common/styles.dart';
 import 'package:facebook_clone/common/theme.dart';
-import 'package:facebook_clone/feature/auth/signin_page.dart';
-import 'package:facebook_clone/feature/home/matching_card.dart';
+import 'package:facebook_clone/features/auth/signin_page.dart';
+import 'package:facebook_clone/features/home/matching_card.dart';
 import 'package:facebook_clone/models/user.dart';
-import 'package:facebook_clone/repository/auth_repo.dart';
-import 'package:facebook_clone/repository/user_repo.dart';
+import 'package:facebook_clone/repositories/auth_repo.dart';
+import 'package:facebook_clone/repositories/user_repo.dart';
 import 'package:facebook_clone/utils/secure_storage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
